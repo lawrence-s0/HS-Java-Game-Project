@@ -1,2 +1,2 @@
 # HS-Java-Game-Project
-Make for a HS project using Java RTP
+Made for a HS project using Java RTP with restrictions on allowed functions
